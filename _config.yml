@@ -1,6 +1,6 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: IDF CatRiskTools v2
+greeting: Welcome to CatRiskTools -- the JKAN version
+description: This is a test portal for a new schema and categorisation of risk models
 baseurl: /jkan
 logo: /img/jkan.png
 
